@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Klikin
+
+  Created by Borja Rodriguez Sánchez on 5/7/17.
+  Copyright © 2017 Borja Rodriguez Sánchez. All rights reserved.
+*/
+
+"Alert Title" = "Alert";
+"Alert message" = "Must must have internet access to keep using Klikin";
